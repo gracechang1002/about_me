@@ -8,6 +8,17 @@
 ## 作品
 ■ 使用python對四種交通工具做訓練及辨識 https://github.com/gracechang1002/simple_CNN<br>
 ■ Arduino小機關 - 闖紅燈車輛紀錄裝置 https://github.com/gracechang1002/Arduino_machine<br>
+
+## 專長
+
+| 程式語言 | 工作技能 |  
+| -------------| -------------|
+|Python、Matlab、Visual Basic、C|軟體程式設計、Machine Learning、Deep Learning
+
+| 人工智慧 | 
+| -------------|
+|1.理解卷積式神經背後架構與理論<br>2.能使用 Matlab 及 python 建構卷積式神經網路|
+
 ## 自傳
 ### ●自我描述
 
