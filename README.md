@@ -8,6 +8,8 @@
 ## 作品
 ■ 使用python對四種交通工具做訓練及辨識 https://github.com/gracechang1002/simple_CNN<br>
 ■ Arduino小機關 - 闖紅燈車輛紀錄裝置 https://github.com/gracechang1002/Arduino_machine<br>
+■使用python套件爬取網站上買房資訊(以信義房屋為例)
+https://github.com/gracechang1002/houseprice_crawler<br> 
 
 ## 專長
 
