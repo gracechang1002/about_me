@@ -10,6 +10,8 @@
 ■ Arduino小機關 - 闖紅燈車輛紀錄裝置 https://github.com/gracechang1002/Arduino_machine<br>
 ■使用python套件爬取網站上買房資訊(以信義房屋為例)
 https://github.com/gracechang1002/houseprice_crawler<br> 
+■Leetcode 習題練習
+https://github.com/gracechang1002/leetcode_python<br>
 
 ## 專長
 
