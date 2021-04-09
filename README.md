@@ -15,13 +15,17 @@ https://github.com/gracechang1002/leetcode_python<br>
 
 ## 專長
 
-| 程式語言 | 工作技能 |  
+| 程式語言 | 機器學習 & 深度學習|  
 | -------------| -------------|
-|Python、Matlab、Visual Basic、C|軟體程式設計、Machine Learning、Deep Learning
+|Python、Matlab|Keras, Numpy, Pandas, openCV, PIL, Matplotlib, CNN, Scikit-learn
 
-| 人工智慧 | 
+| 工作技能 | 
 | -------------|
-|1.理解卷積式神經背後架構與理論<br>2.能使用 Matlab 及 python 建構卷積式神經網路|
+|1.軟體設計、開發及維護
+2.利用深度學習演算法對於影像辨識的開發、應用及測試
+3.影像處理用於AI 模型應用
+4.利用演算法，解決各領域的問題。
+5.影像處理(降躁、二值化、邊緣提取...等)|
 
 ## 自傳
 ### 【自我描述】
@@ -57,9 +61,4 @@ https://github.com/gracechang1002/leetcode_python<br>
 經過一次次的與組員討論及溝通，學習到讓自己在對於團體的合作中，如何達到有效且良好溝同，且維持人與<br>
 人之間的相處模式。<br>
 <br>
-### 【論文摘要】
-論文題目為「結合均勻實驗設計與深度學習應用於心電圖之心臟疾病分類」，使用的心電圖種類分別為正常竇<br>
-率、心律不整、充血性心臟衰竭，透過收集心電圖數據進行特徵擷取，並使用均勻實驗設計法結合卷積神經網<br>
-路AlexNet結構，透過設計AlexNet結構神經網路的超參數，將訓練及測試資料分為固定及隨機兩種模式，探討<br>
-是否可達到與Matlab 2019版本之AlexNet<br>
-神經網路的辨識結果相當或超越之可能性。<br>
+
