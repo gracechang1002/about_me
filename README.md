@@ -11,7 +11,7 @@
 〗膀簍衡猭家竚絤策(Matlab) - https://github.com/gracechang1002/Genetic-Algorithm<br>
 〗ㄏノpython甅ン呼禦┬戈癟(獺竡┬ㄒ)
 https://github.com/gracechang1002/houseprice_crbfawler<br> 
-〗Leetcode 策肈絤策
+〗Leetcode 策肈絤策(俱瞶い)
 https://github.com/gracechang1002/leetcode_python<br>
 
 ## 盡
