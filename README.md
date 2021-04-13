@@ -6,10 +6,11 @@
 
 ◆ E-Mail : grace51322@gmail.com
 ## 作品
-■ 使用python對四種交通工具做訓練及辨識 https://github.com/gracechang1002/simple_CNN<br>
-■ Arduino小機關 - 闖紅燈車輛紀錄裝置 https://github.com/gracechang1002/Arduino_machine<br>
+■使用python對四種交通工具做訓練及辨識 https://github.com/gracechang1002/simple_CNN<br>
+■Arduino小機關 - 闖紅燈車輛紀錄裝置 https://github.com/gracechang1002/Arduino_machine<br>
+■基因演算法模型建置練習(Matlab) - https://github.com/gracechang1002/Genetic-Algorithm<br>
 ■使用python套件爬取網站上買房資訊(以信義房屋為例)
-https://github.com/gracechang1002/houseprice_crawler<br> 
+https://github.com/gracechang1002/houseprice_crbfawler<br> 
 ■Leetcode 習題練習
 https://github.com/gracechang1002/leetcode_python<br>
 
